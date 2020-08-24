@@ -1,4 +1,4 @@
-# serousoma
+# [![Mastodon Follow](https://img.shields.io/mastodon/follow/76901?domain=https%3A%2F%2Fmastodon.online&style=social)](https://mastodon.online/@serousoma)
 Public Comments.
 
 ### Donald Trump - Fraud, Con, Dangerous Psychotic, Racist, Criminal.
@@ -37,3 +37,4 @@ Sources:
     
 [9]: https://kirschnerskorner.com/2020/02/02/trump-anxiety-disorder/
     
+[10]: https://mastodon.online/@serousoma
