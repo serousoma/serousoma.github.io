@@ -33,39 +33,39 @@ For many reasons, including blockchain voting, citizen-supported blockchain tech
 
 Sources:
     
-[0]: https://gcn.com/articles/2020/05/29/virtual-voting-security.aspx
+[0](https://gcn.com/articles/2020/05/29/virtual-voting-security.aspx)
     
-[1]: https://bitcoinmagazine.com/articles/blockchain-technology-key-secure-online-voting-1435443899
+[1](https://bitcoinmagazine.com/articles/blockchain-technology-key-secure-online-voting-1435443899)
     
-[2]: https://blogs.lse.ac.uk/politicsandpolicy/internet-voting-coming-to-a-computer-near-you-though-more-research-is-needed-to-eliminate-the-risks/
+[2](https://blogs.lse.ac.uk/politicsandpolicy/internet-voting-coming-to-a-computer-near-you-though-more-research-is-needed-to-eliminate-the-risks/)
     
-[3]: https://impakter.com/agora/
+[3](https://impakter.com/agora/)
     
-[4]: https://followmyvote.com/blockchain-voting-the-end-to-end-process/
+[4](https://followmyvote.com/blockchain-voting-the-end-to-end-process/)
     
-[5]: https://www.securemac.com/interviews/the-securemac-interview-voatz-on-mobile-voting
+[5](https://www.securemac.com/interviews/the-securemac-interview-voatz-on-mobile-voting)
     
-[6]: https://inc42.com/infocus/blockchain-this-week/blockchain-this-week-election-commission-of-india-proposes-use-of-blockchain-solution-more/
+[6](https://inc42.com/infocus/blockchain-this-week/blockchain-this-week-election-commission-of-india-proposes-use-of-blockchain-solution-more/)
     
-[7]: https://coinrivet.com/the-benefits-of-blockchain-voting/
+[7](https://coinrivet.com/the-benefits-of-blockchain-voting/)
     
-[8]: https://www.coindesk.com/snake-oil-and-overpriced-junk-why-blockchain-doesnt-fix-online-voting
+[8](https://www.coindesk.com/snake-oil-and-overpriced-junk-why-blockchain-doesnt-fix-online-voting)
     
-[9]: https://sci.smithandcrown.com/research/imagining-blockchain-based-voting
+[9](https://sci.smithandcrown.com/research/imagining-blockchain-based-voting)
     
-[10]: https://www.belfercenter.org/publication/defending-vote-casting-using-blockchain-based-mobile-voting-applications-government
+[10](https://www.belfercenter.org/publication/defending-vote-casting-using-blockchain-based-mobile-voting-applications-government)
     
-[11]: https://www.csis.org/analysis/blockchains-will-change-way-world-votes
+[11](https://www.csis.org/analysis/blockchains-will-change-way-world-votes)
     
-[12]: https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/
+[12](https://www.scientificamerican.com/article/are-blockchains-the-answer-for-secure-elections-probably-not/)
     
-[13]: https://www.stc.org/techcomm/2018/11/08/bitcoin-blockchain-and-ballots-technical-communication-and-trust-in-electoral-systems/
+[13](https://www.stc.org/techcomm/2018/11/08/bitcoin-blockchain-and-ballots-technical-communication-and-trust-in-electoral-systems/)
     
-[14]: https://www.artezio.com/pressroom/blog/how-build-blockchain-online-voting-system-and-who-requires-it/
+[14](https://www.artezio.com/pressroom/blog/how-build-blockchain-online-voting-system-and-who-requires-it/)
     
-[15]: http://deeptechwire.com/a-look-at-blockchain-for-voting/
+[15](http://deeptechwire.com/a-look-at-blockchain-for-voting/)
     
-[16]: https://www.zdnet.com/article/is-blockchain-voting-on-the-way/
+[16](https://www.zdnet.com/article/is-blockchain-voting-on-the-way/)
     
 
 
@@ -87,24 +87,24 @@ Donald Trump's regime is planning to use the Insurrection Act to allow the U.S. 
 
 Sources:
     
-[0]: https://psmag.com/news/inside-the-minds-of-hardcore-trump-supporters
+[0](https://psmag.com/news/inside-the-minds-of-hardcore-trump-supporters)
     
-[1]: https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/
+[1](https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
     
-[2]: https://gutterbookshop.com/shop/page/4/?product_orderby=popularity&product_view=list&product_order=asc&product_count=72
+[2](https://gutterbookshop.com/shop/page/4/?product_orderby=popularity&product_view=list&product_order=asc&product_count=72)
     
-[3]: https://www.salon.com/2019/06/21/psychiatrist-john-gartner-two-years-ago-i-compared-trump-to-hitler-people-didnt-believe-me/
+[3](https://www.salon.com/2019/06/21/psychiatrist-john-gartner-two-years-ago-i-compared-trump-to-hitler-people-didnt-believe-me/)
     
-[4]: https://medium.com/@shanesnow/donald-trump-and-the-definition-of-insanity-82ab6db008c4
+[4](https://medium.com/@shanesnow/donald-trump-and-the-definition-of-insanity-82ab6db008c4)
     
-[5]: https://www.billjamesonline.com/how_the_democrats_can_win_kansas/
+[5](https://www.billjamesonline.com/how_the_democrats_can_win_kansas/)
     
-[6]: https://thehill.com/opinion/white-house/459011-in-three-years-of-trumps-presidency-who-has-branded-whom
+[6](https://thehill.com/opinion/white-house/459011-in-three-years-of-trumps-presidency-who-has-branded-whom)
     
-[7]: http://www.climateplus.info/2020/07/13/trump-the-worlds-most-dangerous-man/
+[7](http://www.climateplus.info/2020/07/13/trump-the-worlds-most-dangerous-man/)
     
-[8]: http://medfordinformationcentral.blogspot.com/2020/01/philosopher-joe-v-quote-on-hitler-and.html
+[8](http://medfordinformationcentral.blogspot.com/2020/01/philosopher-joe-v-quote-on-hitler-and.html)
     
-[9]: https://kirschnerskorner.com/2020/02/02/trump-anxiety-disorder/
+[9](https://kirschnerskorner.com/2020/02/02/trump-anxiety-disorder/)
     
-[10]: https://mastodon.online/@serousoma
+[10](https://mastodon.online/@serousoma)
